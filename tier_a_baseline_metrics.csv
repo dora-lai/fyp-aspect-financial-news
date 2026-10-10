@@ -1,0 +1,4 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),Macro F1,Weighted F1
+VADER,0.4267,0.4308,0.4267,0.4215,0.4215
+Loughran-McDonald,0.4,0.3784,0.4,0.3589,0.3589
+FinBERT (ProsusAI),0.5667,0.5942,0.5667,0.5619,0.5619

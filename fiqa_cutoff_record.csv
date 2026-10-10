@@ -1,0 +1,2 @@
+task,dataset,split,positive_threshold,negative_threshold,rule,n_records
+Task 13,FiQA 2018,test,0.1,-0.1,positive if score > 0.1; negative if score < -0.1; else neutral,150

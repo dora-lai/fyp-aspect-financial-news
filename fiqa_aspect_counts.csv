@@ -1,0 +1,50 @@
+aspects,count
+['Corporate/Appointment'],13
+['Stock/Price Action'],13
+['Stock/Price Action/Bullish'],12
+['Stock/Technical Analysis'],10
+['Corporate/Dividend Policy'],9
+['Stock/Price Action/Bearish/Bearish Behavior'],9
+['Stock/Price Action/Bullish/Bullish Behavior'],6
+['Corporate/Sales'],5
+['Stock/Price Action/Bearish'],5
+['Corporate/Appointment/Executive Appointment'],4
+['Corporate/M&A/M&A'],4
+['Corporate/Risks'],4
+['Stock/Coverage/AnalystRatings/Downgrade'],4
+['Corporate/Risks/Product Recall'],4
+['Market/Market'],3
+['Corporate/Rumors/Scoop'],3
+['Corporate/Rumors'],3
+['Market/Volatility'],2
+['Corporate/Regulatory'],2
+['Corporate/Sales/Sales'],2
+['Corporate/Sales/Partnership'],2
+['Stock/Price Action/Bearish/Bear Position'],2
+['Market/Market/Market Trend'],2
+['Stock/IPO'],2
+['Corporate/Risks/Sale Halt'],1
+['Stock/Signal/Sell Signal'],1
+['Stock/Buyside/Stock Buyside'],1
+['Stock/Signal/Buy Signal'],1
+['Corporate/Risks/Price Competition'],1
+['Stock/Price Action/Current Price/Oversold'],1
+['Corporate/Strategy/Reorganization'],1
+['Stock/Price Action/Volatility/Short Selling'],1
+['Corporate/M&A'],1
+['Economy/Central Banks'],1
+['Corporate/Strategy/Business Outlook'],1
+['Stock/Coverage/Credit Rating'],1
+['Economy/Central Banks/?'],1
+['Stock/Fundamentals'],1
+['Market/Volatility],1
+['Corporate/M&A/Proposed Merger'],1
+['Stock/Coverage/AnalystRatings/Upgrade'],1
+['Corporate/Strategy/Investment'],1
+['Corporate/Financial/Financial Results/Earnings/Company Guidance'],1
+['Market/Currency'],1
+['Stock/Technical Analysis/Breakout'],1
+['Stock/Price Action/Bullish/Bull Position'],1
+['Stock/Coverage/AnalystRatings'],1
+['Economy/Trade/Sanctions'],1
+['Corporate/Legal'],1
