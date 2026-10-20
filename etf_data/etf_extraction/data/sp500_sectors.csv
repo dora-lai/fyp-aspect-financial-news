@@ -1,0 +1,505 @@
+ticker,company,gics_sector,sector_etf,in_proposed_universe,list_date,source
+NVDA,NVIDIA,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AAPL,APPLE,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MSFT,MICROSOFT,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AMZN,AMAZON.COM INC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GOOGL,ALPHABET CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GOOG,ALPHABET CLASS C,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+META,META PLATFORMS CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AVGO,BROADCOM INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LLY,ELI LILLY,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TSLA,TESLA INC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MU,MICRON TECHNOLOGY,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BRK.B,BERKSHIRE HATHAWAY INC CLASS B,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+JPM,JPMORGAN CHASE & CO,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AMD,ADVANCED MICRO DEVICES,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+XOM,EXXONMOBIL HOLDINGS CORP,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+V,VISA CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+JNJ,JOHNSON & JOHNSON,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WMT,WALMART,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ABBV,ABBVIE,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MA,MASTERCARD CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+INTC,INTEL CORPORATION,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CVX,CHEVRON,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+COST,COSTCO WHOLESALE CORP,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PLTR,PALANTIR TECHNOLOGIES CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CSCO,CISCO SYSTEMS INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PG,PROCTER & GAMBLE,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KO,COCA-COLA,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+UNH,UNITEDHEALTH GROUP,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MRK,MERCK & CO INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CAT,CATERPILLAR INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BAC,BANK OF AMERICA,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LRCX,LAM RESEARCH,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GE,GE AEROSPACE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AMAT,APPLIED MATERIAL INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PM,PHILIP MORRIS INTERNATIONAL,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HD,HOME DEPOT,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NFLX,NETFLIX,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PANW,PALO ALTO NETWORKS,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RTX,RTX,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GS,GOLDMAN SACHS GROUP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TMO,THERMO FISHER SCIENTIFIC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WFC,WELLS FARGO,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TXN,TEXAS INSTRUMENT INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GEV,GE VERNOVA,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AMGN,AMGEN INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CRWD,CROWDSTRIKE HOLDINGS CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LIN,LINDE PLC,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ORCL,ORACLE,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IBM,INTERNATIONAL BUSINESS MACHINES,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KLAC,KLA,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MS,MORGAN STANLEY,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+C,CITIGROUP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MRVL,MARVELL TECHNOLOGY,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CRM,SALESFORCE,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+APH,AMPHENOL CORP CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GILD,GILEAD SCIENCES,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ADI,ANALOG DEVICES,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DIS,WALT DISNEY,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SNDK,SANDISK,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VZ,VERIZON COMMUNICATIONS INC,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ANET,ARISTA NETWORKS,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+QCOM,QUALCOMM,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ABT,ABBOTT LABORATORIES,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PEP,PEPSICO,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+COP,CONOCOPHILLIPS,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MCD,MCDONALDS CORP,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+UNP,UNION PACIFIC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WELL,WELLTOWER,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PFE,PFIZER,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NEE,NEXTERA ENERGY,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AXP,AMERICAN EXPRESS,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BLK,BLACKROCK,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TJX,TJX,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DE,DEERE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+T,AT&T,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ETN,EATON PLC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ISRG,INTUITIVE SURGICAL,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BA,BOEING,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SCHW,CHARLES SCHWAB,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NOW,SERVICENOW,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+STX,SEAGATE TECHNOLOGY HOLDINGS PLC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+UBER,UBER TECHNOLOGIES,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DHR,DANAHER,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ACN,ACCENTURE PLC CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DELL,DELL TECHNOLOGIES INC CLASS C,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MPC,MARATHON PETROLEUM,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SPGI,S&P GLOBAL,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VLO,VALERO ENERGY CORP,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PGR,PROGRESSIVE,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VRTX,VERTEX PHARMACEUTICALS,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CB,CHUBB,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MO,ALTRIA GROUP INC,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NEM,NEWMONT,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+COF,CAPITAL ONE FINANCIAL CORP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BKNG,BOOKING HOLDINGS,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BMY,BRISTOL MYERS SQUIBB,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PH,PARKER-HANNIFIN,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WDC,WESTERN DIGITAL CORP,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PLD,PROLOGIS REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CVS,CVS HEALTH,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MCK,MCKESSON CORP,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PSX,PHILLIPS 66,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MDT,MEDTRONIC PLC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ADP,AUTOMATIC DATA PROCESSING INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LMT,LOCKHEED MARTIN CORP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SBUX,STARBUCKS CORP,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LOW,LOWES COMPANIES INC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CME,CME GROUP CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SO,SOUTHERN,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GLW,CORNING,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FTNT,FORTINET,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SYK,STRYKER,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TT,TRANE TECHNOLOGIES PLC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FCX,FREEPORT MCMORAN INC,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ADBE,ADOBE INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EQIX,EQUINIX REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BNY,BANK OF NEW YORK MELLON CORP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PWR,QUANTA SERVICES INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DUK,DUKE ENERGY CORP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ELV,ELEVANCE HEALTH INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+USB,US BANCORP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ICE,INTERCONTINENTAL EXCHANGE INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CSX,CSX,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EMR,EMERSON ELECTRIC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MRSH,MARSH,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CEG,CONSTELLATION ENERGY CORP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+INTU,INTUIT,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+JCI,JOHNSON CONTROLS INTERNATIONAL PLC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HWM,HOWMET AEROSPACE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CDNS,CADENCE DESIGN SYSTEMS,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GD,GENERAL DYNAMICS CORP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WMB,WILLIAMS,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SNPS,SYNOPSYS,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PNC,PNC FINANCIAL SERVICES GROUP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AMT,AMERICAN TOWER REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MMM,3M,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WM,WASTE MANAGEMENT INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MAR,MARRIOTT INTERNATIONAL CLASS A,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EOG,EOG RESOURCES,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DDOG,DATADOG INC CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MDLZ,MONDELEZ INTERNATIONAL CLASS A,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TRV,TRAVELERS COMPANIES,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MRNA,MODERNA,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BX,BLACKSTONE,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CI,CIGNA,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VRT,VERTIV HOLDINGS CLASS A,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HOOD,ROBINHOOD MARKETS CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HLT,HILTON WORLDWIDE HOLDINGS,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+REGN,REGENERON PHARMACEUTICALS,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CMCSA,COMCAST CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TMUS,T MOBILE US INC,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MSI,MOTOROLA SOLUTIONS INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SHW,SHERWIN WILLIAMS,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ROST,ROSS STORES INC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CL,COLGATE-PALMOLIVE,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GM,GENERAL MOTORS,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CTAS,CINTAS,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SLB,SLB,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NSC,NORFOLK SOUTHERN CORP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CMI,CUMMINS INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+UPS,UNITED PARCEL SERVICE INC CLASS B,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HPE,HEWLETT PACKARD ENTERPRISE,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LITE,LUMENTUM HOLDINGS,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ECL,ECOLAB,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ABNB,AIRBNB CLASS A,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MCO,MOODYS CORP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ORLY,OREILLY AUTOMOTIVE INC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+APP,APPLOVIN CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DASH,DOORDASH CLASS A,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ITW,ILLINOIS TOOL INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TGT,TARGET CORP,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NOC,NORTHROP GRUMMAN CORP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AEP,AMERICAN ELECTRIC POWER INC,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RCL,ROYAL CARIBBEAN GROUP,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HCA,HCA HEALTHCARE,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KMI,KINDER MORGAN,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HON,HONEYWELL INTERNATIONAL INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+APD,AIR PRODUCTS AND CHEMICALS,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SPG,SIMON PROPERTY GROUP REIT INC,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MNST,MONSTER BEVERAGE,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AJG,ARTHUR J GALLAGHER,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BE,BLOOM ENERGY CLASS A,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+COR,CENCORA,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FDX,FEDEX CORP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BSX,BOSTON SCIENTIFIC CORP,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+URI,UNITED RENTALS,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TRGP,TARGA RESOURCES,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TDG,TRANSDIGM GROUP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ALL,ALLSTATE CORP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AON,AON PLC CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DLR,DIGITAL REALTY TRUST REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TEL,TE CONNECTIVITY PLC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KKR,KKR AND CO INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MPWR,MONOLITHIC POWER SYSTEMS INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CAH,CARDINAL HEALTH,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+OKE,ONEOK,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FAST,FASTENAL,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PCAR,PACCAR INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NUE,NUCOR,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NXPI,NXP SEMICONDUCTORS NV,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GWW,WW GRAINGER INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TFC,TRUIST FINANCIAL,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AME,AMETEK INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KEYS,KEYSIGHT TECHNOLOGIES,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+D,DOMINION ENERGY,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DVN,DEVON ENERGY,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CRH,CRH PUBLIC LIMITED PLC,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BKR,BAKER HUGHES CLASS A,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SRE,SEMPRA,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MET,METLIFE,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AFL,AFLAC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HONA,HONEYWELL AEROSPACE INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+O,REALTY INCOME REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+APO,APOLLO GLOBAL MANAGEMENT,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BDX,BECTON DICKINSON,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AZO,AUTOZONE,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TER,TERADYNE,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ADSK,AUTODESK,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FIX,COMFORT SYSTEMS USA,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PSA,PUBLIC STORAGE REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EW,EDWARDS LIFESCIENCES,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HUM,HUMANA,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ETR,ENTERGY CORP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+A,AGILENT TECHNOLOGIES INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+F,FORD MOTOR CO,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PYPL,PAYPAL HOLDINGS,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WAB,WESTINGHOUSE AIR BRAKE TECHNOLOGIE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EBAY,EBAY,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VYLR,VYLOR,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VST,VISTRA,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+XEL,XCEL ENERGY INC,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ROK,ROCKWELL AUTOMATION INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GRMN,GARMIN,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KDP,KEURIG DR PEPPER INC,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CIEN,CIENA,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VEEV,VEEVA SYSTEMS CLASS A,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LHX,L3HARRIS TECHNOLOGIES,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FITB,FIFTH THIRD BANCORP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+COHR,COHERENT,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+OXY,OCCIDENTAL PETROLEUM CORP,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+STT,STATE STREET,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RSG,REPUBLIC SERVICES INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CARR,CARRIER GLOBAL,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EXC,EXELON CORP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DAL,DELTA AIR LINES,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FERG,FERGUSON ENTERPRISES,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NKE,NIKE CLASS B,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AMP,AMERIPRISE FINANCE INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IDXX,IDEXX LABORATORIES,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VMRK,VIVMARK RESIDENTIAL,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VTR,VENTAS REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IQV,IQVIA HOLDINGS INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WAT,WATERS CORP,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CVNA,CARVANA CLASS A,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AIG,AMERICAN INTERNATIONAL GROUP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+XYZ,BLOCK CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FANG,DIAMONDBACK ENERGY,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ED,CONSOLIDATED EDISON,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NDAQ,NASDAQ INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MSCI,MSCI,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+P,EVERPURE INC CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+YUM,YUM BRANDS,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MCHP,MICROCHIP TECHNOLOGY INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NTAP,NETAPP INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PRU,PRUDENTIAL FINANCIAL INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ADM,ARCHER DANIELS MIDLAND,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ILMN,ILLUMINA INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SYY,SYSCO,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+COIN,COINBASE GLOBAL CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WDAY,WORKDAY CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CBRE,CBRE GROUP CLASS A,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ROP,ROPER TECHNOLOGIES,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CMG,CHIPOTLE MEXICAN GRILL,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TWLO,TWILIO CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IBKR,INTERACTIVE BROKERS GROUP INC CLAS,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HIG,HARTFORD INSURANCE GROUP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KVUE,KENVUE,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KR,KROGER,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TTWO,TAKE TWO INTERACTIVE SOFTWARE,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PAYX,PAYCHEX,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PEG,PUBLIC SERVICE ENTERPRISE GROUP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DHI,D R HORTON,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WEC,WEC ENERGY GROUP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KMB,KIMBERLY CLARK,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ODFL,OLD DOMINION FREIGHT LINE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CCI,CROWN CASTLE INC,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RMD,RESMED,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ACGL,ARCH CAPITAL GROUP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BIIB,BIOGEN,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CNC,CENTENE CORP,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EQT,EQT,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IRM,IRON MOUNTAIN INC,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FLEX,FLEX LTD,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VMC,VULCAN MATERIALS,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EXPE,EXPEDIA GROUP,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CCL,CARNIVAL CORP LTD,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ZTS,ZOETIS INC CLASS A,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CBOE,CBOE GLOBAL MARKETS,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MTD,METTLER TOLEDO,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DXCM,DEXCOM INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+STLD,STEEL DYNAMICS INC,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EME,EMCOR GROUP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AXON,AXON ENTERPRISE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GEHC,GE HEALTHCARE TECHNOLOGIES,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+UAL,UNITED AIRLINES HOLDINGS,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MTB,M&T BANK,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HBAN,HUNTINGTON BANCSHARES INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NTRS,NORTHERN TRUST,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MLM,MARTIN MARIETTA MATERIALS,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CTSH,COGNIZANT TECHNOLOGY SOLUTIONS CLA,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DG,DOLLAR GENERAL CORP,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EXR,EXTRA SPACE STORAGE REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WSM,WILLIAMS SONOMA INC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AEE,AMEREN,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WTW,WILLIS TOWERS WATSON,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+JBL,JABIL,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PCG,PG&E CORP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TDY,TELEDYNE TECHNOLOGIES INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ATO,ATMOS ENERGY,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ON,ON SEMICONDUCTOR CORP,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HAL,HALLIBURTON,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HPQ,HP INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+OTIS,OTIS WORLDWIDE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RJF,RAYMOND JAMES,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WST,WEST PHARMACEUTICAL SERVICES,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LYV,LIVE NATION ENTERTAINMENT,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DTE,DTE ENERGY,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IR,INGERSOLL RAND INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AWK,AMERICAN WATER WORKS,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CNP,CENTERPOINT ENERGY,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CFG,CITIZENS FINANCIAL GROUP INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PPL,PPL CORP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DOV,DOVER CORP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CINF,CINCINNATI FINANCIAL,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CPAY,CORPAY,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VICI,VICI PPTYS INC,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DGX,QUEST DIAGNOSTICS INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EL,ESTEE LAUDER INC CLASS A,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LH,LABCORP HOLDINGS,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ULTA,ULTA BEAUTY INC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CASY,CASEYS GENERAL STORES INC,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EXPD,EXPEDITORS INTERNATIONAL OF WASHIN,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FISV,FISERV INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ES,EVERSOURCE ENERGY,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ARES,ARES MANAGEMENT CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HSY,HERSHEY FOODS,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FFIV,F5,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VRSK,VERISK ANALYTICS,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CHD,CHURCH AND DWIGHT INC,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VLTO,VERALTO CORP,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DRI,DARDEN RESTAURANTS INC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VRSN,VERISIGN,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HUBB,HUBBELL INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+XYL,XYLEM INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+Q,QNITY ELECTRONICS,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FE,FIRSTENERGY CORP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SYF,SYNCHRONY FINANCIAL,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TPR,TAPESTRY,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PPG,PPG INDUSTRIES,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DLTR,DOLLAR TREE INC,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CPRT,COPART INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RF,REGIONS FINANCIAL,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IFF,INTERNATIONAL FLAVORS & FRAGRANCES,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RDDT,REDDIT CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+OMC,OMNICOM GROUP INC,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NRG,NRG ENERGY INC,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+STE,STERIS,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EXE,EXPAND ENERGY,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DOW,DOW,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SW,SMURFIT WESTROCK PLC,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CMS,CMS ENERGY,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TROW,T ROWE PRICE GROUP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EIX,EDISON INTERNATIONAL,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+VTRS,VIATRIS,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PHM,PULTEGROUP,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PFG,PRINCIPAL FINANCIAL GROUP INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PTC,PTC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PKG,PACKAGING CORP OF AMERICA,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TPL,TEXAS PACIFIC LAND,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KHC,KRAFT HEINZ,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NI,NISOURCE,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AMCR,AMCOR PLC,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BRO,BROWN & BROWN INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BR,BROADRIDGE FINANCIAL SOLUTIONS INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SBAC,SBA COMMUNICATIONS REIT CORP CLASS,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+STZ,CONSTELLATION BRANDS CLASS A,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LUV,SOUTHWEST AIRLINES,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+INCY,INCYTE CORP,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EVRG,EVERGY,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SNA,SNAP ON INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EFX,EQUIFAX,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CDW,CDW,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GPN,GLOBAL PAYMENTS INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FIS,FIDELITY NATIONAL INFORMATION SERV,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FSLR,FIRST SOLAR,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GPC,GENUINE PARTS,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BBY,BEST BUY,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+L,LOEWS,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CF,CF INDUSTRIES HOLDINGS INC,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SWKS,SKYWORKS SOLUTIONS,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KEY,KEYCORP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ZBH,ZIMMER BIOMET HOLDINGS,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IP,INTERNATIONAL PAPER,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SMCI,SUPER MICRO COMPUTER INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GIS,GENERAL MILLS INC,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LNT,ALLIANT ENERGY CORP,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DD,DUPONT DE NEMOURS,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ZBRA,ZEBRA TECHNOLOGIES CORP CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FTV,FORTIVE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IEX,IDEX,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ESS,ESSEX PROPERTY TRUST REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TSCO,TRACTOR SUPPLY,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+APA,APA,Energy,XLE,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WRB,WR BERKLEY,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NDSN,NORDSON,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RVTY,REVVITY,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+JBHT,JB HUNT TRANSPORT SERVICES,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BALL,BALL CORP,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BG,BUNGE GLOBAL SA,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FICO,FAIR ISAAC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LYB,LYONDELLBASELL INDUSTRIES CLASS A,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+J,JACOBS SOLUTIONS INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HST,HOST HOTELS & RESORTS REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CHRW,CH ROBINSON WORLDWIDE,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LDOS,LEIDOS HOLDINGS,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TSN,TYSON FOODS INC CLASS A,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+KIM,KIMCO REALTY REIT CORP,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LEN,LENNAR A CLASS A,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NVR,NVR,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+INVH,INVITATION HOMES,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+RL,RALPH LAUREN CLASS A,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MAS,MASCO,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CRL,CHARLES RIVER LABORATORIES INTERNA,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WY,WEYERHAEUSER REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HAS,HASBRO,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SWK,STANLEY BLACK & DECKER,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+EG,EVEREST GROUP,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TRMB,TRIMBLE INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TYL,TYLER TECHNOLOGIES,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SJM,JM SMUCKER,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FDXF,FEDEX FREIGHT HOLDING COMPANY INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MAA,MID AMERICA APARTMENT COMMUNITIES,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AIZ,ASSURANT INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GDDY,GODADDY CLASS A,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ALLE,ALLEGION PLC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AVY,AVERY DENNISON CORP,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CSGP,COSTAR GROUP,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DOC,HEALTHPEAK PROPERTIES INC,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BAX,BAXTER INTERNATIONAL,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TXT,TEXTRON INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GEN,GEN DIGITAL,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IT,GARTNER,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GL,GLOBE LIFE,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FOXA,FOX CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AKAM,AKAMAI TECHNOLOGIES INC,Information Technology,XLK,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PNW,PINNACLE WEST,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+IVZ,INVESCO LTD,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SOLV,SOLVENTUM,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CHTR,CHARTER COMMUNICATIONS CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+REG,REGENCY CENTERS REIT CORP,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ECHO,ECHOSTAR CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MKC,MCCORMICK & CO NON-VOTING,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DECK,DECKERS OUTDOOR,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TECH,BIO TECHNE,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+GNRC,GENERAC HOLDINGS,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+COO,COOPER,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ALB,ALBEMARLE CORP,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LII,LENNOX INTERNATIONAL,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+JKHY,JACK HENRY AND ASSOCIATES INC,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NWSA,NEWS CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FDS,FACTSET RESEARCH SYSTEMS,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HII,HUNTINGTON INGALLS INDUSTRIES,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AES,AES,Utilities,XLU,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CLX,CLOROX,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+TKO,TKO GROUP HOLDINGS INC CLASS A,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DPZ,DOMINOS PIZZA,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LULU,LULULEMON ATHLETICA,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+UDR,UDR REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ROL,ROLLINS INC,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+CPT,CAMDEN PROPERTY TRUST REIT,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+LVS,LAS VEGAS SANDS,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PODD,INSULET,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ALGN,ALIGN TECHNOLOGY,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+UHS,UNIVERSAL HEALTH SERVICES CLASS B,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BXP,BXP,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+APTV,APTIV PLC,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BEN,FRANKLIN TEMPLETON,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+PNR,PENTAIR,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FRT,FEDERAL REALTY INVESTMENT TRUST RE,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HSIC,HENRY SCHEIN,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+FOX,FOX CLASS B,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NCLH,NORWEGIAN CRUISE LINE HOLDINGS,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+AOS,A O SMITH,Industrials,XLI,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ARE,ALEXANDRIA REAL ESTATE EQUITIES RE,Real Estate,VNQ,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+DVA,DAVITA INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+ERIE,ERIE INDEMNITY CLASS A,Financials,XLF,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MOS,MOSAIC,Materials,XLB,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HRL,HORMEL FOODS CORP,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+WYNN,WYNN RESORTS,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+BF.B,BROWN FORMAN CLASS B,Consumer Staples,XLP,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+MGM,MGM RESORTS INTERNATIONAL,Consumer Discretionary,XLY,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+NWS,NEWS CLASS B,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+SKYD,SKYDANCE SHS CLASS B,Communication Services,VOX,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
+HOLX,HOLOGIC INC,Health Care,XLV,True,2026-10-16,iShares Core S&P 500 ETF (IVV) holdings
