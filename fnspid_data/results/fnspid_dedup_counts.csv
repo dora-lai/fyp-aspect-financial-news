@@ -1,0 +1,5 @@
+step,rows,removed,remaining_pct
+1. Read from FNSPID,15549299,0,100.0
+"2. After removing rows with no date, headline or ticker",5744672,9804627,36.9
+3. After removing exact duplicates,5544523,200149,35.7
+4. After removing near-duplicates per ticker per day,5541739,2784,35.6
