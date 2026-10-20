@@ -1,6 +1,6 @@
 # ETF data (Tier C)
 
-Created by `Tier_C_ETF_Extraction_v2.ipynb`.
+Created by `Tier_C_ETF_Extraction.ipynb`.
 
 - `etf_prices.csv`: daily adjusted close for 21 ETFs, 1998–2023 (Yahoo Finance)
 - `etf_universe.csv`: each ETF's role (18-ETF universe, SPY benchmark)
