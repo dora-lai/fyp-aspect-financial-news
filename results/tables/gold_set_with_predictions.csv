@@ -1,0 +1,201 @@
+headline_id,sentence,entity,aspect,sentiment,finbert_pred,vader_pred
+G001,Why Datadog Stock Ran to a New All-Time High on Friday,Datadog,Valuation,positive,positive,neutral
+G002,Live Nation Reports EPS of $(0.27) vs. $(0.45) Estimate; Revenues $849.4M vs. $763.59M Estimate,Live Nation,Earnings,positive,positive,neutral
+G003,"JP Morgan Downgrades Dow Chemical from Overweight to Neutral, Maintains PT from $36 to $",Dow Chemical,Valuation,negative,positive,neutral
+G004,Why Omnicom (OMC) Stock Might be a Great Pick,Omnicom,Valuation,positive,neutral,positive
+G005,Illumina Strength Could Also be Related to Presentation ASHG COnference in San Francisco,Illumina,Valuation,positive,neutral,positive
+G006,"Deutsche Bank Maintains Hold on Xcel Energy Inc., Raises PT to $31.00",Xcel Energy,Valuation,neutral,positive,positive
+G007,Wolfe Research Upgrades Keycorp (KEY),KeyCorp,Valuation,positive,neutral,neutral
+G008,Apollo Global Management Q3 Profit Tops Estimates,Apollo Global Management,Earnings,positive,negative,positive
+G009,"Deutsche Bank Maintains Hold on Rockwell Automation, Inc. Common Stock, Raises Price Target to $186",Rockwell Automation,Valuation,neutral,positive,neutral
+G010,UPDATE: J.P. Morgan Upgrades Marathon Petroleum on Stronger Upside Potential,Marathon Petroleum,Valuation,positive,positive,positive
+G011,Why Wells Fargo Stock Looks Poised to Rebound,Wells Fargo,Valuation,positive,neutral,positive
+G012,Deutsche Bank Expecting 'Solid' Results Out Of Intuit,Intuit,Earnings,positive,positive,neutral
+G013,"Zacks Industry Outlook Highlights: ArcelorMittal, United States Steel, AK Steel Holding, Nucor and Steel Dynamics","ArcelorMittal, U.S. Steel, AK Steel, Nucor and Steel Dynamics",Other,neutral,neutral,positive
+G014,First Week of April 20th Options Trading For C.H. Robinson Worldwide (CHRW),C.H. Robinson Worldwide,Other,neutral,neutral,neutral
+G015,Will J.M Smucker's (SJM) Earnings Disappoint this Season? - Analyst Blog,J.M. Smucker,Earnings,negative,negative,negative
+G016,"Delta, Viacom And More 'Fast Money Picks' For August 6",Delta,Valuation,neutral,neutral,neutral
+G017,Citi Retains Buy On BlackRock Inc (BLK),BlackRock,Valuation,positive,neutral,neutral
+G018,Booking Holdings (BKNG) to Post Q2 Earnings: What to Expect,Booking Holdings,Earnings,neutral,neutral,neutral
+G019,Delta (DAL) Ups Q4 EPS View on Buoyant Air-Travel Demand,Delta,Earnings,positive,positive,positive
+G020,KKR & Co. (KKR) to Report Q4 Earnings: What's in the Cards?,KKR,Earnings,neutral,neutral,neutral
+G021,"American Electric Power Co Inc Q4 Profit Increases, beats estimates",American Electric Power,Earnings,positive,positive,positive
+G022,BGR Reports on Verizon's Upcoming Smartphone Lineup; Verizon to Get New iPhone This Fall,Verizon,Other,neutral,neutral,neutral
+G023,"Has Ulta Beauty Stock Fallen Too Far, Too Fast?",Ulta Beauty,Valuation,positive,negative,positive
+G024,KLA-Tencor: Post-Orbotech Future Shines Bright,KLA-Tencor,Earnings,positive,neutral,positive
+G025,IBD Rating Upgrades: Apollo Global Management Shows Improved Relative Price Strength,Apollo Global Management,Valuation,positive,positive,positive
+G026,Capital One Reports Q1 Results,Capital One,Earnings,neutral,neutral,neutral
+G027,Trading Texas Instruments’ Earnings,Texas Instruments,Earnings,neutral,neutral,neutral
+G028,"CME Group, Inc. Q4 adjusted earnings Beat Estimates",CME Group,Earnings,positive,positive,neutral
+G029,BMO Capital Maintains Public Service Enterprise Group (PEG) Market Perform Recommendation,Public Service Enterprise Group,Valuation,neutral,neutral,neutral
+G030,JP Morgan Assumes Thermo Fisher Scientific at Overweight,Thermo Fisher Scientific,Valuation,positive,neutral,neutral
+G031,"Essex Property (ESS) Meets Q4 FFO Estimates, Revenues Beat",Essex Property,Earnings,positive,positive,neutral
+G032,Is the Netflix-Comcast Deal a Win-Win for Investors? - Analyst Blog,Netflix-Comcast,Other,positive,neutral,neutral
+G033,"Unusual Call Option Trade in Occidental Petroleum (OXY) Worth $24,699.90K",Occidental Petroleum,Other,positive,neutral,positive
+G034,"Fastenal to Acquire Certain Assets of Fasteners, Inc.; Terms Not Disclosed",Fastenal,Other,positive,neutral,positive
+G035,Tesla Shares Decline After Einhorn Publicly Questions Automaker's Accounting Practices,Tesla,Management,negative,negative,positive
+G036,"Altria Sees Recording Total Estimated Pre-Tax Gain of ~$13.7B, or $4.55/Share, Related to AB InBev Deal",Altria,Earnings,positive,positive,positive
+G037,Regeneron to receive $462M from Sanofi in revamped I-O collaboration,Regeneron,Other,positive,positive,neutral
+G038,DaVita HealthCare Partners Inc. Q2 Profit Climbs,DaVita,Earnings,positive,positive,positive
+G039,LyondellBasell And Odebrecht S.A. End Discussions Regarding Braskem Acquisition,LyondellBasell,Other,neutral,neutral,neutral
+G040,Why an Earnings Beat Is Likely for Dover (DOV) in 2Q16,Dover,Earnings,positive,neutral,neutral
+G041,Idex Earns Technical Rating Upgrade,IDEX,Valuation,positive,positive,neutral
+G042,"Unusual Put Option Trade in Tesla (TSLA) Worth $63,229.00K",Tesla,Other,negative,neutral,positive
+G043,"Stephens & Co. Downgrades Vulcan Materials to Equal-Weight, Lowers Price Target to $150",Vulcan Materials,Valuation,negative,neutral,negative
+G044,"DOJ's ""Not Yet"" Response to a Merger of DISH and DIRECTV Is a Win for T-Mobile",T-Mobile,Regulation,positive,positive,positive
+G045,Can WEC Energy (WEC) Keep the Earnings Surprise Streak Alive?,WEC Energy,Earnings,neutral,neutral,positive
+G046,"Barclays Maintains Overweight on Merck & Co, Raises Price Target to $78",Merck,Valuation,positive,positive,negative
+G047,Vulcan Materials Company Files Mixed Security Shelf,Vulcan Materials,Other,neutral,negative,positive
+G048,3 Things Charter Communications Wants Investors to Know,Charter Communications,Management,neutral,neutral,neutral
+G049,"YUM! Brands: U.S. Taco Bell Same Store Sales up 2% for 2Q, 100 Million Doritos Locos Tacos Sold in Quarter",Yum! Brands,Earnings,positive,positive,neutral
+G050,UPDATE: J.P. Morgan Raises Cadence Design Systems' PT,Cadence Design Systems,Valuation,positive,neutral,neutral
+G051,Duke Energy Beats Estimates - Analyst Blog,Duke Energy,Earnings,positive,neutral,positive
+G052,Jefferies & Company Reports on M&T Bank,M&T Bank,Valuation,neutral,neutral,neutral
+G053,HST Crosses Above 5% Yield Territory,Host Hotels & Resorts,Valuation,positive,positive,neutral
+G054,"Thermo Fisher Tops, Raises Outlook - Analyst Blog",Thermo Fisher Scientific,Earnings,positive,neutral,positive
+G055,"Barclays Reinstates Equal-weight on Entergy, Announces $80.00 PT",Entergy,Valuation,neutral,neutral,neutral
+G056,"DA Davidson Upgrades EMCOR Group, Inc. to Buy",EMCOR Group,Valuation,positive,neutral,neutral
+G057,"Zacks Investment Ideas feature highlights: Lululemon Athletica, Coach, Family Dollar Stores and TJX Companies - Press Releases","Lululemon Arhletica, Coach, Family Dollar Stores and TJX Companies",Valuation,positive,neutral,neutral
+G058,Unconfirmed Rumors Persist that Constellation Brands Inc. (STZ) has been offered over $30.00 per share by Private Equity,Constellation Brands,Other,positive,neutral,positive
+G059,Franklin Resources Reports EPS of $2.25 vs. $2.01 Estimate; Revenues $1.75B vs. $1.74B Estimate (BEN),Franklin Resources,Earnings,positive,positive,neutral
+G060,"Teradyne (TER) Q3 Earnings Top Estimates, Revenues Fall Y/Y",Teradyne,Earnings,neutral,negative,positive
+G061,Susquehanna Upgrades Devon Energy from Neutral to Positive,Devon Energy,Valuation,positive,positive,positive
+G062,Will Healthy Revenue Growth Buoy Motorola (MSI) Q1 Earnings?,Motorola Solutions,Earnings,positive,positive,positive
+G063,Newmont Reaffirmed at Neutral - Analyst Blog,Newmont,Valuation,neutral,neutral,neutral
+G064,Essex Property (ESS) Down 11% in a Month: Is it Worth a Look?,Essex Property,Valuation,negative,negative,positive
+G065,Susquehanna Downgrades LyondellBasell Industries To Neutral,LyondellBasell,Valuation,negative,negative,neutral
+G066,"Dominion Gains from investments, Drop in Tax Credits a Woe",Dominion,Earnings,neutral,negative,neutral
+G067,Goldman Sachs Restarts Schlumberger as a “Buy” (SLB),Schlumberger,Valuation,positive,neutral,neutral
+G068,AES Corporation Beats Estimates - Analyst Blog,AES Corporation,Earnings,positive,neutral,neutral
+G069,"Amphenol Sees Q2 Adj. EPS $0.62-$0.64 vs $0.62 Est., Sales $1.495B-$1.535B vs $1.5B Est.",Amphenol,Earnings,neutral,positive,neutral
+G070,"EMD Serono, Pfizer Report Completion Of Submission Of Supplemental Biologics License Application To FDA For BAVENCIO For Treatment Of Urothelial Carcinoma; FDA Grants Breakthrough Therapy Designation","EMD Serono, Pfizer",Regulation,positive,positive,positive
+G071,"Top Permian, Bakken Shale Producers Miss On Earnings; Diamondback Also Weak","Top Permian, Bakken Shale Producers  ",Earnings,negative,negative,negative
+G072,Cigna Hikes 2011 View After 2Q Earnings Beat,Cigna,Earnings,positive,negative,neutral
+G073,"New Research Coverage Highlights Vulcan Materials, Cimpress N. ...",Vulcan Materials,Valuation,neutral,neutral,neutral
+G074,Citigroup Maintains Vulcan Materials (VMC) Buy Recommendation,Vulcan Materials,Valuation,positive,neutral,neutral
+G075,Ameren: Acquisition Rumors Make This Solid Utility Look Less Attractive,Ameren,Other,negative,negative,positive
+G076,Missouri American Water Acquires Loma Linda Water System,Missouri American Water,Other,neutral,neutral,neutral
+G077,Walt Disney Q2 Results Beats Estimates As Subscribers Increase,Walt Disney,Earnings,positive,positive,positive
+G078,Waters (WAT) Down 6.1% Since Last Earnings Report: Can It Rebound?,Waters,Valuation,negative,negative,neutral
+G079,Tyson Foods Class A Reports Q3 EPS $0.50 vs $0.54 Est; Revenues $8.31B vs $8.72B Est,Tyson Foods,Earnings,negative,positive,neutral
+G080,What Makes Clorox (CLX) a New Strong Buy Stock,Clorox,Valuation,positive,neutral,positive
+G081,Kimco Marginally Edges Past Estimates - Analyst Blog,Kimco,Earnings,positive,positive,neutral
+G082,"Waste Management misses by $0.02, beats on revenue",Waste Management,Earnings,neutral,neutral,negative
+G083,Devon Energy Says in Slideshow That It is On Track To Deliver More Than 20% Oil Production Growth,Devon Energy,Earnings,positive,positive,positive
+G084,Nextera Says Guiding 55% Dividend Payout in 2014,NextEra Energy,Other,positive,neutral,neutral
+G085,"Merck, AstraZeneca Reports LYNPARZA Received Positive EU CHMP Opinion In Platinum-Sensitive Relapsed Ovarian Cancer","Merck, AstraZeneca ",Regulation,positive,positive,negative
+G086,"JP Morgan Upgrades Texas Instruments To Overweight, PT To $44",Texas ,Valuation,positive,positive,neutral
+G087,20 Billion Reasons Alphabet's Moat Isn't as Big as It Seems,Alphabet,Other,negative,neutral,neutral
+G088,IBD Rating Upgrades: LyondellBasell Shows Improved Technical Strength,LyondellBasell,Valuation,positive,positive,positive
+G089,"Options Brief: NRG Energy, Inc. (NRG)",NRG Energy,Other,neutral,neutral,positive
+G090,KeyCorp results hemmed in by shrinking margins,KeyCorp,Earnings,negative,negative,neutral
+G091,REMINDER: Fox Shareholders to Vote On Walt Disney Deal Today,Walt Disney,Other,neutral,neutral,neutral
+G092,J.P Morgan: Marriott Earnings Get Lift From Increased Travel,Marriott,Earnings,positive,positive,positive
+G093,PepsiCo Kept Neutral despite Good Q2 - Analyst Blog,PepsiCo,Valuation,neutral,positive,negative
+G094,CF Industries Has Great Potential For Value Investors,CF Industries,Valuation,positive,positive,positive
+G095,EXR Crosses Above Average Analyst Target,Extra Space Storage,Valuation,positive,positive,neutral
+G096,"Edwards Lifesciences Tops Q3 Earnings, Revenues; Ups View - Analyst Blog",Edwards Lifesciences,Earnings,positive,neutral,positive
+G097,"Walt Disney Will Furlough 43,000 Disney World Workers, Providing Full Health Benefits for 12 Months",Walt Disney,Other,negative,neutral,positive
+G098,"Mid America Apartment Communities FFO in-line, beats on revenue",Mid-America Apartment Communities,Earnings,neutral,neutral,neutral
+G099,Why Charter Communications Stock Plunged Today,Charter Communications,Valuation,negative,negative,neutral
+G100,"Citigroup Initiates Coverage On WEC Energy Group with Neutral Rating, Announces $61.00 Price Target",WEC Energy,Valuation,neutral,neutral,positive
+G101,Financial Stock Narrowly Mixed; Extra Space Storage Rising After $200 Mln Property Purchase,Extra Space Storage,Other,positive,positive,neutral
+G102,"Martin Marietta Materials, Inc. Reports Q4 EPS of $0.77 vs $0.70 Est; Revenue of $491.40M vs $534.18M Est",Martin Marietta Materials,Earnings,neutral,positive,neutral
+G103,Williams-Sonoma's New Product Line - Analyst Blog,Williams-Sonoma,Other,positive,neutral,neutral
+G104,"Mizuho Securities Initiates Coverage on eBay at Neutral, Announces $65.00 PT",eBay,Valuation,neutral,neutral,positive
+G105,Sysco Corp. Q2 adjusted earnings Miss Estimates,Sysco,Earnings,negative,negative,negative
+G106,eBay Says Pres of eBay Enterprise Chris Saridakis Has Resigned,eBay,Management,negative,neutral,negative
+G107,American Tower To Acquire InSite Wireless For Total Consideration Of $3.5 Bln,American Tower,Other,neutral,neutral,neutral
+G108,T. Rowe Price Has Been Increasing Dividends For 30 Years,T. Rowe Price,Other,positive,positive,neutral
+G109,Breakout Should Continue in Sempra Energy (SRE),Sempra Energy,Valuation,positive,positive,positive
+G110,Ulta Salon Shares All Over The Place After Q3 Beat,Ulta Salon,Valuation,neutral,neutral,positive
+G111,"Chevron (CVX) Q2 Earnings Beat on Oil Rally, Output Rise",Chevron,Earnings,positive,positive,neutral
+G112,American Tower Rated Outperform At Oppenheimer (AMT),American Tower,Valuation,positive,positive,neutral
+G113,"Raymond James Maintains Outperform on Home Depot, Lowers Price Target to $230",Home Depot,Valuation,positive,negative,negative
+G114,Ralph Lauren (RL) Stock Gains on Q4 Earnings & Revenue Beat,Ralph Lauren,Earnings,positive,positive,positive
+G115,DuPont Target Raised (DD),DuPont,Valuation,positive,neutral,neutral
+G116,Atmos Energy Corporation Reports Advance In Q1 Profit,Atmos Energy,Earnings,positive,positive,positive
+G117,Paychex Says Report About Potential Merger with M&T Bank Is False,Paychex,Other,neutral,neutral,neutral
+G118,Devon Remains Neutral - Analyst Blog,Devon Energy,Valuation,neutral,neutral,neutral
+G119,Pump Failure in Dow's Plant - Analyst Blog,Dow,Supply Chain,negative,negative,negative
+G120,Guy Adami Is Looking At Freeport-McMoRan (FCX),Freeport-McMoRan,Valuation,neutral,neutral,neutral
+G121,Albemarle Corporation Q3 Earnings Summary,Albemarle,Earnings,neutral,neutral,neutral
+G122,Kimberly-Clark Guides FY20 Adj. EPS In Line - Quick Facts,Kimberly-Clark,Earnings,neutral,neutral,neutral
+G123,Kimco Realty Q2 FFO Down; Raises Annual FFO Outlook,Kimco Realty,Earnings,positive,negative,neutral
+G124,Camden Property Trust to Hold Virtual Annual Meeting of Shareholders,Camden Property Trust,Other,neutral,neutral,positive
+G125,Microsoft (MSFT) and Alphabet (GOOGL) Earnings Show Why Big Tech is Still Your Best Bet,Microsoft and Alphabet,Earnings,positive,neutral,positive
+G126,"Nomura Maintains Buy on Alphabet, Lowers Price Target to $1.31K",Alphabet,Valuation,positive,neutral,negative
+G127,"Dollar Tree Narrows FY17 Outlook: Sales from $21.94B-$22.33B to $21.95B-$22.254B vs $22.12B Est., EPS $4.17-$4.43 vs $4.47 Est.",Dollar Tree,Earnings,negative,negative,neutral
+G128,"MGM Resorts Rides on Solid Domestic Business, Risks Prevail",MGM Resorts,Earnings,neutral,positive,negative
+G129,"Boeing limps into 2021 with more 737 MAX cancellations, delayed 787 deliveries",Boeing,Supply Chain,negative,negative,negative
+G130,Here's What To Make Of Packaging Corporation of America's (NYSE:PKG) Decelerating Rates Of Return,Packaging Corporation of America,Earnings,negative,neutral,neutral
+G131,"Despite COP's Improving Story, Morgan Stanley Prefers CVX",ConocoPhillips,Valuation,negative,neutral,negative
+G132,EOG Resources Down to Sell amid Weak Pricing Environment - Analyst Blog,EOG Resources,Valuation,negative,negative,negative
+G133,Oracle Lifts Stock Markets; Kroger Sees Sales Soar Again,"Oracle, Kroger",Earnings,positive,positive,neutral
+G134,SBA Communications Sees RS Rating Climb To 77,SBA Communications,Valuation,positive,positive,neutral
+G135,Devon Energy Announces Change to Its Board of Directors,Devon Energy,Management,neutral,neutral,positive
+G136,"Amgen Announces Positive Result For Phase 1b Study Of Combination Of Vectibix, Lumakras",Amgen,Other,positive,positive,positive
+G137,UPDATE: Morgan Stanley Removes PT on Simon Property Group on Potential CMBS Issues on the Horizon for SpinCo,Simon Property Group,Valuation,negative,negative,neutral
+G138,Sysco Corp (SYY) CEO William J Delaney Iii Sold $21.6 million of Shares,Sysco,Management,negative,neutral,positive
+G139,Federal judge vacates U.S. approval of ConocoPhillips Alaska drilling project,ConocoPhillips,Regulation,negative,negative,positive
+G140,"Better Buy: Celgene Corporation vs. Gilead Sciences, Inc.","Celgene, Gilead Sciences",Valuation,neutral,neutral,positive
+G141,What To Expect From Salesforce's Earnings This Quarter,Salesforce,Earnings,neutral,neutral,neutral
+G142,"Deutsche Bank Initiates Coverage on NXP Semiconductors at Buy, Announces PT of $30",NXP Semiconductors,Valuation,positive,positive,neutral
+G143,"ADM To Buy Major Stake In PetDine, Pedigree Ovens, The Pound Bakery, NutraDine",ADM,Other,positive,neutral,neutral
+G144,Starr International Co Inc Buys ONEOK Inc,ONEOK,Other,positive,neutral,neutral
+G145,Hubbell Enters Oversold Territory,Hubbell,Valuation,neutral,negative,neutral
+G146,"Agree To Purchase Newmont Mining At $20, Earn 10.8% Using Options",Newmont,Other,neutral,neutral,positive
+G147,Digital Realty Eyes Growth With Demand From Cloud Providers,Digital Realty,Earnings,positive,positive,positive
+G148,Kimberly-Clark (KMB) Gains As Market Dips: What You Should Know,Kimberly-Clark,Valuation,positive,neutral,positive
+G149,Keysight Will Acquire Ixia For Network Testing Offerings,Keysight,Other,positive,neutral,neutral
+G150,Delta Air Lines Updates Q3 Guidance; Reaffirms FY Earnings Outlook,Delta Air Lines,Earnings,neutral,positive,neutral
+G151,"Baird Maintains Outperform on A.O. Smith, Raises Price Target to $62",A.O. Smith,Valuation,positive,positive,neutral
+G152,Intuit Reports First-Quarter EPS of $(0.22); Sees FY 2011 Revenue of $3.74 billion to $3.84B,Intuit,Earnings,neutral,positive,neutral
+G153,Tyler Technologies Capitalizes Running The Government,Tyler Technologies,Earnings,positive,neutral,neutral
+G154,Equinix & VMware Partner to Offer Hybrid Cloud Facility,Equinix & VMware,Other,positive,neutral,neutral
+G155,Realty Income Slips After Announcing $9.3 Bln All-Stock Deal To Acquire Spirit Realty,Realty Income,Other,negative,negative,positive
+G156,"Sterne Agee Downgrades American International Group, Inc. to Neutral, Raises PT to $41.00",American International Group,Valuation,negative,positive,neutral
+G157,Barron's: More room to run for Citizens Financial,Citizens Financial,Valuation,positive,neutral,neutral
+G158,"Becton, Dickinson Beats Q2 Earnings & Revenues, View Up - Analyst Blog","Becton, Dickinson",Earnings,positive,neutral,neutral
+G159,"Nomura Maintains Buy on News Corporation, Raises PT to $29.00",News Corporation,Valuation,positive,positive,neutral
+G160,"J.P. Morgan Reiterates Underweight Rating, $34 PT on Paychex",Paychex,Valuation,negative,negative,neutral
+G161,"Fastenal's Q2 Sales Miss Views, Gross Margin Shrinks",Fastenal,Earnings,negative,negative,negative
+G162,"Where Will Gilead Sciences, Inc. Be in 5 Years?",Gilead Sciences,Valuation,neutral,neutral,neutral
+G163,John Linehan Sells Out Targa Resources,Targa Resources,Management,negative,neutral,neutral
+G164,Church & Dwight Q2 Earnings Preview,Church & Dwight,Earnings,neutral,neutral,neutral
+G165,"Stephens & Co. Initiates Coverage On Mastercard with Overweight Rating, Announces $166.00 Price Target",Mastercard,Valuation,positive,neutral,negative
+G166,Valero Energy Corp. Q2 Income Climbs,Valero Energy,Earnings,positive,positive,positive
+G167,Constellation seen as attractive off CBD potential,Constellation Brands,Valuation,positive,positive,positive
+G168,"Devon (DVN) Beats on Q1 Earnings, Ups U.S. Oil Output View",Devon Energy,Earnings,positive,positive,neutral
+G169,Why Starbucks Stock Popped Wednesday Morning,Starbucks,Valuation,positive,neutral,neutral
+G170,American Express Does Not Support Google Wallet,American Express,Other,negative,neutral,negative
+G171,EOG Resources: Shale Industry Needs $60 Oil To Ramp Up Production,EOG Resources,Other,neutral,neutral,neutral
+G172,Is Qualcomm (QCOM) Likely to Surprise Earnings in Q4? - Analyst Blog,Qualcomm,Earnings,neutral,neutral,positive
+G173,Why AT&T Inc. (T) Stock Looks as Fresh as a Startup!,AT&T,Valuation,positive,neutral,positive
+G174,Fiserv's Neutral Rating Retained - Analyst Blog,Fiserv,Valuation,neutral,neutral,neutral
+G175,Deutsche Bank Reiterates Buy on Omnicom (OMC),Omnicom,Valuation,positive,neutral,neutral
+G176,Danaher shares are trading higher after the company announced it will commence an exchange offer related to the split-off of its remaining interest in Envista Holdings Corporation.,Danaher,Other,positive,positive,positive
+G177,"Jefferies Initiates Coverage on Zoetis at Buy, Announces $40.00 PT",Zoetis,Valuation,positive,neutral,neutral
+G178,Dow: The Price Is Right,Dow,Valuation,positive,neutral,neutral
+G179,Oppenheimer Maintains Outperform Rating and $60 PT on American Tower,American Tower,Valuation,positive,neutral,neutral
+G180,CHMP Grants Positive Opinion for Bristol-Myers' Nivolumab BMS,Bristol-Myers Squibb,Regulation,positive,positive,positive
+G181,Ventas Reports Q2 FFO $0.80 vs $0.77 Est,Ventas,Earnings,positive,negative,neutral
+G182,Chevron Q1 Profit Rises; Exxon Mobil Slips To Loss,Chevron,Earnings,positive,positive,positive
+G183,Could A Media Company Buy Hasbro? The Future Of The Iconic Toymaker,Hasbro,Other,neutral,neutral,neutral
+G184,Medtronic Reports 'IN.PACT Admiral' Drug-Coated Balloon Outperformed Standard Angioplasty In SFA Trial,Medtronic,Other,positive,positive,positive
+G185,"Investors Still Waiting For A Pull Back In NIKE, Inc. (NYSE:NKE)",Nike,Valuation,neutral,negative,neutral
+G186,JP Morgan Upgrades Hershey To Overweight Amid New Valuation Methodology in Packaged Food Sector,Hershey,Valuation,positive,positive,neutral
+G187,Hershey Co Reports Q3 EPS $0.84 vs $0.84 Est; Revenues $1.62B vs $1.62B Est,Hershey,Earnings,neutral,negative,neutral
+G188,DTE Energy Inches Up As Stock Indexes Struggle,DTE Energy,Valuation,positive,positive,negative
+G189,"Nomura Maintains Buy on QUALCOMM Incorporated, Raises PT to $78.00",Qualcomm,Valuation,positive,positive,neutral
+G190,Snap-On Inc. (SNA): New Analyst Report from Zacks Equity Research - Zacks Equity Research Report,Snap-On Inc.,Valuation,neutral,neutral,neutral
+G191,TVA chief Johnson is front-runner for PG&E's CEO job - Bloomberg,PG&E,Management,neutral,neutral,neutral
+G192,Hilton CEO Said Considering Sale of NY's Waldorf Astoria - Bloomberg,Hilton,Other,neutral,neutral,neutral
+G193,Is AT&T's DirecTV Now the Future of Television?,AT&T,Other,positive,neutral,neutral
+G194,PG&E (PCG) Shares Enter Oversold Territory,PG&E,Valuation,neutral,negative,positive
+G195,WM Invests in Food Waste Recycling - Analyst Blog,WM,Other,positive,neutral,negative
+G196,Archer Daniels' Cost-Savings Plan on Track: Should You Buy?,ADM,Earnings,positive,neutral,neutral
+G197,"Stock Market News for November 3, 2010 - Market News",Stock market News,Other,neutral,neutral,neutral
+G198,"CDW Q2 EPS $1.38 Beats $1.28 Estimate, Sales $4.186B Beat $4.15B Estimate",CDW,Earnings,positive,positive,neutral
+G199,Micron Technology Stock Is a Prime Catch-Up Trade You Shouldn’t Miss,Micron Technology,Valuation,positive,neutral,negative
+G200,Kroger Company (The) Reports Q2 EPS of $0.70 vs $0.69 Est; Revenue of $25.30B vs $24.92B Est;,Kroger Company,Earnings,positive,positive,neutral
