@@ -1,30 +1,28 @@
 # LLM Selection & Cost Estimate (Task 52)
 
 ## Model Choice
-- **Model Family:** Google Gemini
-- **Model Name:** Gemini 1.5 Flash
-- **Fixed Model Version:** `gemini-1.5-flash`
-*(Note: Using a fixed model version ensures reproducibility. This model is part of Google's free tier, which guarantees zero cost for the project while providing sufficient capability for NLP tasks.)*
+- **Provider:** CUHK API Portal (Microsoft Azure Foundry)
+- **Model Family:** CUHK Foundry Models WUS3
+- **Model Name:** `gpt-5.6-sol`
+*(Note: Using this fixed model version ensures reproducibility. This model is accessed via the university's APIM subscription, which provides a secure, enterprise-grade environment for FYP and academic research.)*
 
-## Pricing (Official Google AI Pricing Page)
-- **Input:** $0.00 (Free tier)
-- **Output:** $0.00 (Free tier)
+## Pricing (CUHK API Portal)
+- **Input:** $0.00 (Covered by CUHK academic allocation)
+- **Output:** $0.00 (Covered by CUHK academic allocation)
 
-## Free Tier Limits
-- **15 RPM** (Requests Per Minute)
-- **1 Million TPM** (Tokens Per Minute)
-- **1,500 RPD** (Requests Per Day)
+## Rate Limits (Starter Tier & FYP Allocation)
+- **Starter Base Limit:** 5 calls per minute (RPM), 100 calls per week.
+- **FYP Requested Quota:** We have requested a project-specific quota increase to 1,500 calls to accommodate the 200-headline dataset (3 runs = 600 calls) plus debugging.
 
 ## Cost Estimate for Project
-1. **Pilot/Gold Set (200 Headlines):**
-   - Total requests: 200.
-   - Well within the 1,500 requests/day limit.
-   - **Estimated Cost:** $0.00 USD.
+1. **Phase 1: Gold Set Evaluation (200 Headlines)**
+   - **Total requests:** 200 headlines × 3 runs (for variance testing) = 600 calls.
+   - **Estimated Cost:** $0.00 USD (Within requested FYP quota).
 
-2. **Large-Scale Corpus (Tier C - FNSPID):**
-   - If we sample 10,000 headlines for the final volatility engine.
-   - The processing can be spread across multiple days (e.g., ~7 days), staying strictly within the 1,500 daily requests limit.
+2. **Phase 2: Large-Scale Corpus (Tier C - FNSPID)**
+   - If we sample 5,000 to 10,000 headlines for the final volatility engine in Semester 2.
+   - We will submit a separate quota request for Semester 2 based on the baseline performance.
    - **Estimated Cost:** $0.00 USD.
 
 ## Conclusion
-The Google Gemini API free tier provides a highly cost-effective and zero-budget solution for the entire project. It avoids the need for credit card binding and fulfills the project's scale requirements.
+The CUHK Foundry Models WUS3 (gpt-5.6-sol) provides a highly capable, enterprise-grade LLM for zero direct cost to the students. It successfully meets the project's data privacy and scale requirements, and avoids the need for personal credit card binding.
