@@ -1,6 +1,6 @@
 # Error Analysis: FinBERT on the US Gold Set (Task 73)
 
-During the evaluation of the baseline models on the 200 US Gold Set, FinBERT achieved an accuracy of 60.0%. This means it made errors on 80 out of 200 headlines. 
+During the evaluation of the baseline models on the 200 US Gold Set, FinBERT achieved an accuracy of 60.19%. This means it made errors on 80 out of 200 headlines. 
 
 A manual review of the misclassifications reveals that the errors fall into three main categories:
 
