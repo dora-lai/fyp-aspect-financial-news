@@ -2,7 +2,7 @@
 
 ## Results
 - **FiQA 2018 Test Set:** FinBERT achieved a Macro F1 of 0.5619.
-- **US Gold Set (FNSPID):** FinBERT achieved a Macro F1 of 0.5976.
+- **US Gold Set (FNSPID):** FinBERT achieved a Macro F1 of 0.6023.
 
 ## Analysis
 Contrary to the typical expectation of performance degradation, FinBERT performed slightly better on the US Gold Set than on the FiQA benchmark (an improvement of ~3.5%). 
