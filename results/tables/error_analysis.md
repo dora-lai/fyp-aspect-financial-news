@@ -1,8 +1,8 @@
 # Error Analysis: FinBERT on the US Gold Set (Task 73)
 
-During the evaluation of the baseline models on the 200 US Gold Set, FinBERT achieved an accuracy of 60.19%. This means it made errors on 80 out of 200 headlines. 
+During the evaluation of the baseline models on the 200 US Gold Set, FinBERT achieved an accuracy of 60.19% (Macro F1: 0.6023), while the lexicon-based VADER model performed even lower with an accuracy of 45.83%. This means FinBERT made errors on approximately 80 out of 200 headlines.
 
-A manual review of the misclassifications reveals that the errors fall into three main categories:
+A manual review of these misclassifications reveals that the errors fall into three main categories:
 
 ## 1. Failure to Understand Analyst Jargon & Context
 FinBERT often gets confused by the combination of positive and negative words in analyst ratings.
@@ -30,4 +30,4 @@ FinBERT sometimes assigns negative sentiment to routine corporate filings that a
   - *(Reason: The model likely reacted to the word "Mixed" or "Security Shelf" and incorrectly flagged it as a negative event.)*
 
 ## Conclusion
-Document-level models like FinBERT lack entity-aware and aspect-level reasoning. They rely heavily on isolated keywords rather than the full sentence context. This justifies the need for the zero-shot LLM (Gemini) approach, which can successfully distinguish between the target entity, the specific aspect, and the overall sentiment.
+While FinBERT outperformed VADER, it still lacks entity-aware and aspect-level reasoning. It relies heavily on isolated keywords rather than the full sentence context. In contrast, the Gemini LLM achieved a Sentiment Accuracy of 90.0% on the same dataset. This huge performance gap justifies the need for the zero-shot LLM approach, which can successfully distinguish between the target entity, the specific aspect, and the overall sentiment.
