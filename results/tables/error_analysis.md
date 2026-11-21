@@ -1,8 +1,8 @@
-# Error Analysis: FinBERT on the US Gold Set (Task 73)
+# Error Analysis: Extraction Methods (Task 73)
 
-During the evaluation of the baseline models on the 200 US Gold Set, FinBERT achieved an accuracy of 60.19% (Macro F1: 0.6023), while the lexicon-based VADER model performed even lower with an accuracy of 45.83%. This means FinBERT made errors on approximately 80 out of 200 headlines.
+During the evaluation of the baseline models on the 200 US Gold Set, FinBERT achieved an accuracy of **60.19%** (Macro F1: 0.6023), while the lexicon-based VADER model performed even lower with an accuracy of **45.83%**. This means FinBERT made errors on roughly 80 out of 200 headlines. 
 
-A manual review of these misclassifications reveals that the errors fall into three main categories:
+A manual review of the misclassifications reveals that the errors fall into three main categories:
 
 ## 1. Failure to Understand Analyst Jargon & Context
 FinBERT often gets confused by the combination of positive and negative words in analyst ratings.
@@ -29,5 +29,6 @@ FinBERT sometimes assigns negative sentiment to routine corporate filings that a
   - **FinBERT Prediction:** negative
   - *(Reason: The model likely reacted to the word "Mixed" or "Security Shelf" and incorrectly flagged it as a negative event.)*
 
-## Conclusion
-While FinBERT outperformed VADER, it still lacks entity-aware and aspect-level reasoning. It relies heavily on isolated keywords rather than the full sentence context. In contrast, the Gemini LLM achieved a Sentiment Accuracy of 90.0% on the same dataset. This huge performance gap justifies the need for the zero-shot LLM approach, which can successfully distinguish between the target entity, the specific aspect, and the overall sentiment.
+## LLM Comparison & Run-to-Run Variance
+In stark contrast to FinBERT's 60.19% accuracy, the Gemini 3.5 Flash-Lite LLM achieved an average Sentiment Accuracy of **86.87%** on the same Gold Set. 
+While the LLM's consistency across 3 runs was exceptionally high (96.95% for sentiment), a review of its minor inconsistencies (e.g., predicting 'negative' in Run 1/2 but 'neutral' in Run 3 for Ulta Beauty) shows that LLMs are occasionally sensitive to borderline analyst ratings. However, the LLM successfully handled the multi-entity and jargon-related errors that plagued FinBERT, proving its superiority for this task.
