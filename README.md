@@ -8,7 +8,6 @@ Traditional robo-advisors rely on historical price actions, ignoring the rich co
 ## 📂 Repository Structure
 ```text
 ├── docs/               # Taxonomy, annotation guidelines, prompts, and domain gap analyses
-├── notebooks/          # Colab/Jupyter notebooks for baselines, LLM evaluation, and variance checks
 ├── results/
 │   ├── figures/        # Confusion matrices, variance screenshots
 │   └── tables/         # Evaluation metrics (CSVs), Gold Set annotations, and LLM predictions
